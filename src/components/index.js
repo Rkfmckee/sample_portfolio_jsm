@@ -1,12 +1,13 @@
 import { EarthCanvas, BallCanvas, ComputersCanvas, StarsCanvas } from './canvas';
-import Hero from './Hero';
-import Navbar from './Navbar';
-import About from './About';
-import Tech from './Tech';
-import Experience from './Experience';
-import Works from './Works';
-import Feedbacks from './Feedbacks';
-import Contact from './Contact';
+
+import Navbar from './page_sections/Navbar';
+import Hero from './page_sections/Hero';
+import About from './page_sections/About';
+import Tech from './page_sections/Tech';
+import Experience from './page_sections/Experience';
+import Works from './page_sections/Works';
+import Feedback from './page_sections/Feedback';
+import Contact from './page_sections/Contact';
 
 export {
   Hero,
@@ -15,7 +16,7 @@ export {
   Tech,
   Experience,
   Works,
-  Feedbacks,
+  Feedback,
   Contact,
   EarthCanvas, 
   BallCanvas, 
