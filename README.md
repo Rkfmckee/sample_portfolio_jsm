@@ -7,7 +7,7 @@ Another sample portfolio written with ThreeJS and React following [Javascript Ma
 - `npm install -D tailwindcss` Install tailwind
     - `npx tailwindcss init` Initialize tailwind
 
-- `npm install {packages}` Intall all the listed {packages} as listed below:
+- `npm install {packages}` Intall all the {packages} as listed below:
     - `@react-three/fiber`
 	- `@react-three/drei`
 	- `maath`
