@@ -10,7 +10,8 @@ Another sample portfolio written with ThreeJS and React following [Javascript Ma
 - `npx tailwindcss init -p` Initialize tailwind
 
 - `npm install {packages}` Intall all the {packages} as listed below:
-    - `@react-three/fiber`
+    - `three`
+	- `@react-three/fiber`
 	- `@react-three/drei`
 	- `maath`
 	- `react-parallax-tilt`
